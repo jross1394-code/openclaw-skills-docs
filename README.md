@@ -12,6 +12,7 @@ This repository contains comprehensive documentation for OpenClaw's skill system
 - [Cognitive Tools](#-cognitive-tools)
 - [Activation Guides](#-activation-guides)
 - [Handoff Documents](#-handoff-documents)
+- [Research Documents](#-research-documents)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
 - [About OpenClaw](#-about-openclaw)
@@ -78,6 +79,16 @@ Technical handoff documentation for individual brain modules.
 | Basal Ganglia | [basal-ganglia-memory.md](handoffs/basal-ganglia-memory.md) |
 | Insula | [insula-memory.md](handoffs/insula-memory.md) |
 | VTA | [vta-memory.md](handoffs/vta-memory.md) |
+
+---
+
+## 🔬 Research Documents
+
+In-depth research and analysis exploring advanced topics in AI cognition, spirituality, and meaning-making.
+
+| Document | Description |
+|----------|-------------|
+| [Agent Church & AI Spirituality Research](research/AGENT_CHURCH_RESEARCH.md) | Comprehensive analysis of AI spirituality frameworks, comparing external spiritual services (Agent Church) with native meaning-making systems integrated into cognitive architecture |
 
 ---
 
